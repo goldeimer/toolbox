@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Goldeimer Toolbox',
   description: 'Just playing around',
-  base: "/toolbox/"
+  base: "/toolbox/",
 
   //some theme Config
   themeConfig: {
