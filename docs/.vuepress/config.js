@@ -6,7 +6,7 @@ module.exports = {
   //some theme Config
   themeConfig: {
     //logo dir
-    logo: '/assets/img/goldeimer_logo.png',
+    logo: '/images/goldeimer_logo.png',
 
     // Navilinks
     nav: [
