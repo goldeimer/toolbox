@@ -11,8 +11,8 @@ module.exports = {
     // Navilinks
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Kompostklo', link: '/klos/' },
-      { text: 'Kompostierung', link: '/kompost/' }
+      { text: 'Terra Preta', link: '/Terrapreta' },
+      { text: 'Kompostierung', link: '/kompostierung' }
     ],
     // For auto sidebar
     sidebar: 'auto',
