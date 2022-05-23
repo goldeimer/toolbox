@@ -26,10 +26,10 @@ locales: {
       title: 'Goldeimer Toolbox',
       description: 'Goldeimer Instrucciones de bricolaje'
     }
- 
- 
+
+
   },
-	
+
   //some theme Config
   themeConfig: {
 	   locales: {
@@ -84,8 +84,8 @@ locales: {
           '/en/nested/': [/* ... */]
         }
       }
-    }, 
- 
+    },
+
     //logo dir
     logo: '/images/goldeimer_logo.png',
 
@@ -114,6 +114,6 @@ locales: {
    // defaults to false, set to true to enable
    editLinks: true,
    // custom text for edit link. Defaults to "Edit this page"
-   editLinkText: 'Help us to open source the knowlegde!'  
+   editLinkText: 'Help us to open source the knowlegde!'
  }
 }
